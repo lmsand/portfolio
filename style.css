@@ -332,7 +332,15 @@ section {
 
 /* EXPERIENCE SECTION */
 
+/* #proj2 {
+  display: flex;
+} */
 
+/* #arr {
+  position: absolute;
+  left: 90rem;
+  bottom: 4.5rem;
+} */
 
 #experience {
   position: relative;
